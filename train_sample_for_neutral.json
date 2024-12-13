@@ -1,0 +1,42 @@
+[
+    {
+        "instruction": "Analyze the content of the following text to determine whether it has a positive, negative or neutral sentiment.",
+        "input": "new",
+        "output": "neutral"
+    },
+    {
+        "instruction": "Categorize the following sentence into either positive, neutral, or negative sentiment.",
+        "input": "more",
+        "output": "neutral"
+    },
+    {
+        "instruction": "Classify the given text into positive, negative or neutral sentiment.",
+        "input": "national",
+        "output": "neutral"
+    },
+    {
+        "instruction": "Detect if the given text is positive, negative, or neutral in sentiment \textit{[with respect to the TARGET]}. output one of these three labels for each input.",
+        "input": "most",
+        "output": "neutral"
+    },
+    {
+        "instruction": "Find out the sentiment of the given sentence \textit{[with respect to the TARGET]}. positive, negative, neutral.",
+        "input": "many",
+        "output": "neutral"
+    },
+    {
+        "instruction": "Given a sentence, detect its sentiment \textit{[with respect to the TARGET]}. possible outputs include: positive, negative, neutral.",
+        "input": "american",
+        "output": "neutral"
+    },
+    {
+        "instruction": "In this task, you are given a sentence. Your task is to determine whether the sentiment in the sentence conveys either positive, negative or neutral emotion.",
+        "input": "early",
+        "output": "neutral"
+    },
+    {
+        "instruction": "Perform sentiment analysis and produce a label indicating whether the sentiment of given sentence is positive, negative, or neutral ",
+        "input": "high",
+        "output": "neutral"
+    }
+]

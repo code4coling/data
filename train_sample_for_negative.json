@@ -1,0 +1,42 @@
+[
+    {
+        "instruction": "Analyze the content of the following text to determine whether it has a positive, negative or neutral sentiment.",
+        "input": "dead",
+        "output": "negative"
+    },
+    {
+        "instruction": "Categorize the following sentence into either positive, neutral, or negative sentiment.",
+        "input": "poor",
+        "output": "negative"
+    },
+    {
+        "instruction": "Classify the given text into positive, negative or neutral sentiment.",
+        "input": "difficult",
+        "output": "negative"
+    },
+    {
+        "instruction": "Detect if the given text is positive, negative, or neutral in sentiment \textit{[with respect to the TARGET]}. output one of these three labels for each input.",
+        "input": "unable",
+        "output": "negative"
+    },
+    {
+        "instruction": "Find out the sentiment of the given sentence \textit{[with respect to the TARGET]}. positive, negative, neutral.",
+        "input": "bad",
+        "output": "negative"
+    },
+    {
+        "instruction": "Given a sentence, detect its sentiment \textit{[with respect to the TARGET]}. possible outputs include: positive, negative, neutral.",
+        "input": "wild",
+        "output": "negative"
+    },
+    {
+        "instruction": "In this task, you are given a sentence. Your task is to determine whether the sentiment in the sentence conveys either positive, negative or neutral emotion.",
+        "input": "cold",
+        "output": "negative"
+    },
+    {
+        "instruction": "Perform sentiment analysis and produce a label indicating whether the sentiment of given sentence is positive, negative, or neutral ",
+        "input": "not greatest",
+        "output": "negative"
+    }
+]
